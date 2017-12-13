@@ -39,7 +39,7 @@ Note: In the Z-Way server device can be disabled or made invisible. Only for act
 
 ## Binding Configuration
 
-No configuration is necessary.
+It is necessary to configure the uername and password to communicate with the z-way server. This may be performed via the habmin UI, but not the Paper UI
 
 ## Thing Configuration
 
